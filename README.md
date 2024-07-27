@@ -1,4 +1,5 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=GitMauroS/Capability_Curve)
+[![View Capability_Curve on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/170336-capability_curve)
 
 # Capability Curve
 
